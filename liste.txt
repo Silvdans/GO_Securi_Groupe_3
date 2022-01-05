@@ -1,0 +1,10 @@
+mousqueton	Mousqueton
+gants	Gants_d'intervation
+brassard	Brassard de Sécurité
+menottes	Portes menottes
+cyno	Bandeau agent cynophile
+talky	Talkies walkies
+lampe	Lampe Torche
+kit	Kit oreillette
+taser	Tasers
+lacrymo	Bombes Lacrymogènes
