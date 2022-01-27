@@ -1,9 +1,9 @@
-Berthier
-Christophe
+Picard
+Jacqueline
 Surveillance entrepôt
 motdepasse
 
-kit
+taser
 lampe
-lacrymo
 brassard
+kit

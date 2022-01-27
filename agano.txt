@@ -1,9 +1,7 @@
-Berthier
-Christophe
+Gano
+Alexandre
 Surveillance entrepôt
 motdepasse
 
 kit
-lampe
-lacrymo
 brassard

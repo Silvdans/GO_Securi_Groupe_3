@@ -1,9 +1,10 @@
-Berthier
-Christophe
+Paquet
+Delmar
 Surveillance entrepôt
 motdepasse
 
+talky
 kit
-lampe
 lacrymo
+gants
 brassard

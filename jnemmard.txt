@@ -1,9 +1,10 @@
-Berthier
-Christophe
+Nemmard
+Jean
 Surveillance entrepôt
 motdepasse
 
-kit
-lampe
 lacrymo
+menottes
+talky
+mousqueton
 brassard

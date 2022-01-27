@@ -1,9 +1,9 @@
-Berthier
-Christophe
+Lagrande
+Gaetane
 Surveillance entrepôt
 motdepasse
 
-kit
-lampe
 lacrymo
+taser
+kit
 brassard
